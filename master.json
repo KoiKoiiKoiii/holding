@@ -1,5 +1,5 @@
 [
-  {
+    {
         "Author": "The Combat Reborn Team",
         "Name": "Rotation Solver Reborn",
         "InternalName": "RotationSolver",
@@ -655,26 +655,26 @@
         "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.9.3.1/IINACT.zip",
         "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.9.3.1/IINACT.zip"
     },
-        {
-            "AcceptsFeedback": false,
-            "ApplicableVersion": "any",
-            "AssemblyVersion": "0.6.2.0",
-            "Author": "Sevii",
-            "DalamudApiLevel": 13,
-            "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-            "DownloadCount": 156457,
-            "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
-            "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
-            "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
-            "InternalName": "Aetherment",
-            "IsHide": false,
-            "IsTestingExclusive": false,
-            "Name": "Aetherment",
-            "Punchline": "Auto-updating and more customizable mods",
-            "RepoUrl": "https://github.com/Sevii77/aetherment",
-            "Tags": [
-                "Ui",
-                "Modding"
-        }
-  
+    {
+        "AcceptsFeedback": false,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.6.2.0",
+        "Author": "Sevii",
+        "DalamudApiLevel": 13,
+        "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
+        "DownloadCount": 156457,
+        "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
+        "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
+        "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
+        "InternalName": "Aetherment",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "Aetherment",
+        "Punchline": "Auto-updating and more customizable mods",
+        "RepoUrl": "https://github.com/Sevii77/aetherment",
+        "Tags": [
+            "Ui",
+            "Modding"
+        ]
+    }
 ]
